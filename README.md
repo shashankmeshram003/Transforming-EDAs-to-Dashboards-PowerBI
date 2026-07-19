@@ -22,31 +22,15 @@ The dashboard helps identify trends in income, debt, utilization ratio, and cust
 
 ##  Google Colab Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bSuGA7NqEs8BuRp5kOephTZqNN_455On?usp=sharing)
-
-
-
-##  Live Power BI Dashboard
-
-View the interactive dashboard here:
-
-https://app.powerbi.com/view?r=eyJrIjoiOGJmYWU4MmEtOTg4MS00ODNkLThhNTItNDBhZTllN2VhYTE4IiwidCI6IjA1OWVlYzcyLTAyYTMtNDhhNi05ODA4LWJhZTgyNDVlZDc3NCJ9
-
-
-
-##  Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z-hY1ZbAC9yOZ487Zro3MJrckcehRrjE?usp=sharing)
 
 ##  Dashboard KPIs
 
 -  Total Customers: **12K**
 -  Average Income: **51K**
 -  Average Credit Utilization: **32%**
--  Total Debt: **13M**
--  Good Credit Customers: **19%**
+-  Total Debt: **130M**
+-  Good Credit Customers: **0.19%**
 
 
 
@@ -66,4 +50,4 @@ https://app.powerbi.com/view?r=eyJrIjoiOGJmYWU4MmEtOTg4MS00ODNkLThhNTItNDBhZTllN
 
 Click below to explore the interactive dashboard.
 
-https://app.powerbi.com/view?r=eyJrIjoiOGJmYWU4MmEtOTg4MS00ODNkLThhNTItNDBhZTllN2VhYTE4IiwidCI6IjA1OWVlYzcyLTAyYTMtNDhhNi05ODA4LWJhZTgyNDVlZDc3NCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNmJiZjk0YTUtNDdhYy00YTk2LWIzMWYtNzRkNDhkZDBhYjkzIiwidCI6IjA1OWVlYzcyLTAyYTMtNDhhNi05ODA4LWJhZTgyNDVlZDc3NCJ9
